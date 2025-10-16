@@ -5,6 +5,5 @@
   "main": "main.js",
   "minAppVersion": "0.12.0",
   "description": "Allows you to pin selected nodes of the global graph, making them static.",
-  "author": "Alexander Richter",
-  "isDesktopOnly": true
+  "author": "Alexander Richter"
 }
